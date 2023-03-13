@@ -1,7 +1,18 @@
 .App {
   text-align: center;
+ 
 }
 
+
+body{
+  text-align: center;
+  background-color: #5D9C59;
+}
+
+p{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
