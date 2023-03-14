@@ -4,7 +4,10 @@
 </div>
 
 
-## True Facts built on React.JS
+
 
 ##  Deployment <a name= 'deployment'> </a>
 [Link](https://true-facts.vercel.app/)
+
+## ⛏️ Built Using <a name = "built_using"></a>
+React
