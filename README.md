@@ -11,3 +11,4 @@
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 React
+React Query
